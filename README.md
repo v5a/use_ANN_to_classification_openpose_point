@@ -12,3 +12,8 @@ https://www.kaggle.com/datasets/jorgemora/classification-of-human-poses-keypoint
 训练了200代，得到了92%的准确率，可能有一点overfitting
 
 但是可以用。
+
+
+----------------------------------------------------------------------------------------
+
+最近我给全连接层加入了BN层
