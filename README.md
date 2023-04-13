@@ -17,3 +17,4 @@ https://www.kaggle.com/datasets/jorgemora/classification-of-human-poses-keypoint
 ----------------------------------------------------------------------------------------
 
 最近我给全连接层加入了BN层
+但是没有什么作用
